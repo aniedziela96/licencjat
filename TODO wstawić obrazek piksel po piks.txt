@@ -1,0 +1,1 @@
+TODO: wstawić obrazek piksel po pikselu - bez slice'ów 

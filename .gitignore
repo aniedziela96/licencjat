@@ -162,3 +162,5 @@ cython_debug/
 code/training/training_lab
 
 .idea/
+
+steps/
